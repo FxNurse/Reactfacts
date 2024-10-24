@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #282D35;
+    
+}
+header{
+    display: flex;
+    background-color: black;
+    color: aqua;
+}
+h3{
+    position: relative;
+    margin-left: 30px;
+}
+img{
+    position: absolute;
+    margin-top: 15px;
+}
+.container{
+    color: white;
+padding: 40px;
+}
+li{
+    margin: 15px; 
+}
